@@ -48,40 +48,11 @@ A modern, AI-powered voice shopping list application that allows users to add, r
    ```
 
 6. **Open your browser**
+   - Live: https://unthinkableshoppingassistant.vercel.app/
    - Frontend: http://localhost:5173
    - Backend: http://localhost:3001
 
-## 🌐 Deployment
 
-### Option 1: Vercel (Recommended)
-
-1. **Push to GitHub** (you've already done this)
-   ```bash
-   git add .
-   git commit -m "Ready for deployment"
-   git push origin main
-   ```
-
-2. **Deploy to Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repo: `Gauravsingh096/Unthinkable-Assesment`
-   - Add environment variable: `ASSEMBLYAI_API_KEY`
-   - Click "Deploy"
-
-3. **Your app will be live at**: `https://your-project.vercel.app`
-
-### Option 2: Manual Deployment
-
-**Frontend:**
-```bash
-npm run build
-# Upload dist/ folder to your hosting provider
-```
-
-**Backend:**
-- Deploy `server.js` to a Node.js hosting service
-- Update frontend API calls to point to your backend URL
 
 ## 🎯 Voice Commands
 
@@ -162,4 +133,5 @@ If you encounter any issues:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Gaurav]**
+** Live Link: [https://unthinkableshoppingassistant.vercel.app/]**
