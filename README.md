@@ -134,4 +134,4 @@ If you encounter any issues:
 ---
 
 **Made with ❤️ by [Gaurav]**
-** Live Link: [https://unthinkableshoppingassistant.vercel.app/]**
+Live Link: https://unthinkableshoppingassistant.vercel.app/
